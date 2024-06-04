@@ -19,7 +19,7 @@
 
 .user-card h2 {
   margin: 0 0 15px;
-  font-size: 1.6em;
+  font-size: 1.5em;
   font-weight: 600;
   color: #028391;
   text-transform: uppercase;
@@ -39,7 +39,7 @@
   align-items: center;
   margin: 10px 0;
   color: #555;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 .contact-item .icon {
@@ -55,7 +55,7 @@
 }
 
 .company-name {
-  font-size: 1.1em;
+  font-size: 1em;
   text-transform: uppercase;
   font-weight: 600;
   color: #153448;
