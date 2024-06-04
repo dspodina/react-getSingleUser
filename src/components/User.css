@@ -49,22 +49,23 @@
 }
 
 .user-card .line {
-  height: 2px;
+  height: 1.5px;
   background-color: #028391; 
   margin: 10px 0 15px; 
 }
 
 .company-name {
-  font-size: 1em;
+  font-size: 1.1em;
   text-transform: uppercase;
   font-weight: 600;
   color: #153448;
-  margin-bottom: 5px;
+  margin: 20px 0 -10px;
 }
 
 .company-phrase {
   font-style: italic;
   font-size: 0.9em;
+  margin-bottom: 15px;
 }
 
 .contact-item br {
