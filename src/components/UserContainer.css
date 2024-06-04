@@ -21,3 +21,10 @@
 .container button:hover {
   background-color: #026D79;
 }
+
+.container button:disabled {
+  background-color: #ddd;
+  color: #555;
+  cursor: not-allowed;
+  border-color: #bbb;
+}

@@ -49,8 +49,8 @@
 }
 
 .user-card .line {
-  height: 1.5px;
-  background-color: #028391; 
+  height: 1px;
+  background-color: lightgray; 
   margin: 10px 0 15px; 
 }
 
@@ -64,8 +64,9 @@
 
 .company-phrase {
   font-style: italic;
-  font-size: 0.9em;
-  margin-bottom: 15px;
+  color: #028391;
+  font-size: 0.8em;
+  margin-bottom: 10px;
 }
 
 .contact-item br {
