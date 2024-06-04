@@ -9,13 +9,13 @@ import "./User.css";
 const User = ({ user }) => {
   return (
     <li className="user-card">
+      <h2>{user.name}</h2>
       {user.company && (
         <>
-          <h2>{user.name}</h2>
           <p className="contact-item company-name">
             {user.company.name}
           </p>
-          <p className="contact-item">
+          <p className="contact-item company-phrase">
             {user.company.catchPhrase}
           </p>
         </>

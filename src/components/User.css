@@ -55,10 +55,16 @@
 }
 
 .company-name {
-  font-size: 1.2em;
+  font-size: 1em;
+  text-transform: uppercase;
   font-weight: 600;
   color: #153448;
   margin-bottom: 5px;
+}
+
+.company-phrase {
+  font-style: italic;
+  font-size: 0.9em;
 }
 
 .contact-item br {
